@@ -1,5 +1,5 @@
 enter url : https://docs.crewai.com/concepts/memory
-enter inquiry : Explain the concept of 'Entity Memory' in the context of the CrewAI framework as described in the document. How is it implemented using RAG storage, and what are its benefits for the AI agents?
+(input) QUESTION - enter inquiry : Explain the concept of 'Entity Memory' in the context of the CrewAI framework as described in the document. How is it implemented using RAG storage, and what are its benefits for the AI agents?
 
 Hello!
 
