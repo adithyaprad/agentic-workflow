@@ -1,3 +1,6 @@
+(input) QUESTION - Explain the concept of 'Entity Memory' in the context of the CrewAI framework as described in the document. How is it implemented using RAG storage, and what are its benefits for the AI agents?
+
+
 Hi there!
 
 Thank you for reaching out to DeepLearningAI! We appreciate your interest in our Entity Memory feature within the CrewAI framework. I'm happy to provide you with an overview.
